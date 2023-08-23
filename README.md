@@ -44,10 +44,12 @@ To Run the project
 - Gradle
 - IntelliJ IDE
 - Docker
-- Quarkus CLI
+- Quarkus CLI <https://quarkus.io/guides/cli-tooling>
 - GraalVM (optional- Only if required to build native executable)
 
 ### Steps
+
+https://quarkus.io/guides/kotlin
 
 - Create a new Quarkus project with the below command
   ```shell
