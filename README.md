@@ -2,9 +2,9 @@
 
 Building REST API with Kotlin and Spring Boot , optionally with Quarkus and Docker
 
-## with_quarkus
+## with_springboot
 
- Project contains REST API code with Quarkus libraries
+ Project contains REST API code with Spring boot libraries
 
 ### prerequisite
 
@@ -34,9 +34,9 @@ To Run the project
 ./gradlew bootRun
 ```
 
-## with_springboot
+##  with_quarkus
 
-   Project contains REST API code with Spring boot libraries
+   Project contains REST API code with Quarkus libraries
 
 ### prerequisite
 
